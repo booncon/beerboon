@@ -1,0 +1,8 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  background: #fff url(logo_Beerboon.jpg) 50% 50% no-repeat;
+  background-size: 300px;
+}
